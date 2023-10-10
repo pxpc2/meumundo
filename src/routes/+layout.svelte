@@ -1,3 +1,7 @@
+<script>
+  import '$lib/styles/global.css';
+</script>
+
 <div class="header">
   <div class="header-content">
     <div class="avatar">
